@@ -1,0 +1,14 @@
+D:\cursos\curso .net\WS-C#\Primeiro-codigo\bin\Debug\net8.0\Primeiro-codigo.exe
+D:\cursos\curso .net\WS-C#\Primeiro-codigo\bin\Debug\net8.0\Primeiro-codigo.deps.json
+D:\cursos\curso .net\WS-C#\Primeiro-codigo\bin\Debug\net8.0\Primeiro-codigo.runtimeconfig.json
+D:\cursos\curso .net\WS-C#\Primeiro-codigo\bin\Debug\net8.0\Primeiro-codigo.dll
+D:\cursos\curso .net\WS-C#\Primeiro-codigo\bin\Debug\net8.0\Primeiro-codigo.pdb
+D:\cursos\curso .net\WS-C#\Primeiro-codigo\obj\Debug\net8.0\Primeiro-codigo.GeneratedMSBuildEditorConfig.editorconfig
+D:\cursos\curso .net\WS-C#\Primeiro-codigo\obj\Debug\net8.0\Primeiro-codigo.AssemblyInfoInputs.cache
+D:\cursos\curso .net\WS-C#\Primeiro-codigo\obj\Debug\net8.0\Primeiro-codigo.AssemblyInfo.cs
+D:\cursos\curso .net\WS-C#\Primeiro-codigo\obj\Debug\net8.0\Primeiro-codigo.csproj.CoreCompileInputs.cache
+D:\cursos\curso .net\WS-C#\Primeiro-codigo\obj\Debug\net8.0\Primeiro-codigo.dll
+D:\cursos\curso .net\WS-C#\Primeiro-codigo\obj\Debug\net8.0\refint\Primeiro-codigo.dll
+D:\cursos\curso .net\WS-C#\Primeiro-codigo\obj\Debug\net8.0\Primeiro-codigo.pdb
+D:\cursos\curso .net\WS-C#\Primeiro-codigo\obj\Debug\net8.0\Primeiro-codigo.genruntimeconfig.cache
+D:\cursos\curso .net\WS-C#\Primeiro-codigo\obj\Debug\net8.0\ref\Primeiro-codigo.dll
