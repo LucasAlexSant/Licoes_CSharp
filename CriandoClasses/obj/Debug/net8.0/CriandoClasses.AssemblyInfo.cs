@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CriandoClasses")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+896263fac036bfe96bc878e52e92c6c0616ac1e6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f4f79b51bebd8b91ac4a67bfa04199aad4647ffa")]
 [assembly: System.Reflection.AssemblyProductAttribute("CriandoClasses")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CriandoClasses")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
