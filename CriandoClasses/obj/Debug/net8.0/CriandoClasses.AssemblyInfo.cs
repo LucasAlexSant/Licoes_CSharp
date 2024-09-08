@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Primeiro-codigo")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("CriandoClasses")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+896263fac036bfe96bc878e52e92c6c0616ac1e6")]
-[assembly: System.Reflection.AssemblyProductAttribute("Primeiro-codigo")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Primeiro-codigo")]
+[assembly: System.Reflection.AssemblyProductAttribute("CriandoClasses")]
+[assembly: System.Reflection.AssemblyTitleAttribute("CriandoClasses")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.

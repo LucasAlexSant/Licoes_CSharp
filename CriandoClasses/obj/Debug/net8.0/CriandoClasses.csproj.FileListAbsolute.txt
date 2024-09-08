@@ -1,0 +1,15 @@
+D:\cursos\curso .net\WS-C#\Licoes_C-\CriandoClasses\bin\Debug\net8.0\CriandoClasses.exe
+D:\cursos\curso .net\WS-C#\Licoes_C-\CriandoClasses\bin\Debug\net8.0\CriandoClasses.deps.json
+D:\cursos\curso .net\WS-C#\Licoes_C-\CriandoClasses\bin\Debug\net8.0\CriandoClasses.runtimeconfig.json
+D:\cursos\curso .net\WS-C#\Licoes_C-\CriandoClasses\bin\Debug\net8.0\CriandoClasses.dll
+D:\cursos\curso .net\WS-C#\Licoes_C-\CriandoClasses\bin\Debug\net8.0\CriandoClasses.pdb
+D:\cursos\curso .net\WS-C#\Licoes_C-\CriandoClasses\obj\Debug\net8.0\CriandoClasses.GeneratedMSBuildEditorConfig.editorconfig
+D:\cursos\curso .net\WS-C#\Licoes_C-\CriandoClasses\obj\Debug\net8.0\CriandoClasses.AssemblyInfoInputs.cache
+D:\cursos\curso .net\WS-C#\Licoes_C-\CriandoClasses\obj\Debug\net8.0\CriandoClasses.AssemblyInfo.cs
+D:\cursos\curso .net\WS-C#\Licoes_C-\CriandoClasses\obj\Debug\net8.0\CriandoClasses.csproj.CoreCompileInputs.cache
+D:\cursos\curso .net\WS-C#\Licoes_C-\CriandoClasses\obj\Debug\net8.0\CriandoClasses.sourcelink.json
+D:\cursos\curso .net\WS-C#\Licoes_C-\CriandoClasses\obj\Debug\net8.0\CriandoClasses.dll
+D:\cursos\curso .net\WS-C#\Licoes_C-\CriandoClasses\obj\Debug\net8.0\refint\CriandoClasses.dll
+D:\cursos\curso .net\WS-C#\Licoes_C-\CriandoClasses\obj\Debug\net8.0\CriandoClasses.pdb
+D:\cursos\curso .net\WS-C#\Licoes_C-\CriandoClasses\obj\Debug\net8.0\CriandoClasses.genruntimeconfig.cache
+D:\cursos\curso .net\WS-C#\Licoes_C-\CriandoClasses\obj\Debug\net8.0\ref\CriandoClasses.dll
