@@ -1,0 +1,15 @@
+D:\cursos\curso .net\WS-C#\Licoes_C-\arrays\bin\Debug\net8.0\arrays.exe
+D:\cursos\curso .net\WS-C#\Licoes_C-\arrays\bin\Debug\net8.0\arrays.deps.json
+D:\cursos\curso .net\WS-C#\Licoes_C-\arrays\bin\Debug\net8.0\arrays.runtimeconfig.json
+D:\cursos\curso .net\WS-C#\Licoes_C-\arrays\bin\Debug\net8.0\arrays.dll
+D:\cursos\curso .net\WS-C#\Licoes_C-\arrays\bin\Debug\net8.0\arrays.pdb
+D:\cursos\curso .net\WS-C#\Licoes_C-\arrays\obj\Debug\net8.0\arrays.GeneratedMSBuildEditorConfig.editorconfig
+D:\cursos\curso .net\WS-C#\Licoes_C-\arrays\obj\Debug\net8.0\arrays.AssemblyInfoInputs.cache
+D:\cursos\curso .net\WS-C#\Licoes_C-\arrays\obj\Debug\net8.0\arrays.AssemblyInfo.cs
+D:\cursos\curso .net\WS-C#\Licoes_C-\arrays\obj\Debug\net8.0\arrays.csproj.CoreCompileInputs.cache
+D:\cursos\curso .net\WS-C#\Licoes_C-\arrays\obj\Debug\net8.0\arrays.sourcelink.json
+D:\cursos\curso .net\WS-C#\Licoes_C-\arrays\obj\Debug\net8.0\arrays.dll
+D:\cursos\curso .net\WS-C#\Licoes_C-\arrays\obj\Debug\net8.0\refint\arrays.dll
+D:\cursos\curso .net\WS-C#\Licoes_C-\arrays\obj\Debug\net8.0\arrays.pdb
+D:\cursos\curso .net\WS-C#\Licoes_C-\arrays\obj\Debug\net8.0\arrays.genruntimeconfig.cache
+D:\cursos\curso .net\WS-C#\Licoes_C-\arrays\obj\Debug\net8.0\ref\arrays.dll
