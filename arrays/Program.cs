@@ -17,3 +17,5 @@ Console.WriteLine("Percorrendo array com forEach");
 foreach(int valor in arrayInteiro){
     Console.WriteLine(valor);
 }
+
+Console.WriteLine("urubu");

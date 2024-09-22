@@ -2,13 +2,13 @@
 
 
 
-// int a = Convert.ToInt32("5");
-// Console.WriteLine(a + 5);
+int a = Convert.ToInt32("5");
+Console.WriteLine(a + 5);
 
-// int b = 5;
+int b = 5;
 
-// string c = Convert.ToString(b);
-// Console.WriteLine(c + 5);
+string c = Convert.ToString(b);
+Console.WriteLine(c + 5);
 
 
 // int a = 10;
